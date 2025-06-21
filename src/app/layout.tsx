@@ -24,10 +24,8 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
-        {children}
+      <body className="">
+        <nav className="flex items-center justify-between p-4 bg-gray-800 text-white"></nav>
       </body>
     </html>
   );

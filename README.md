@@ -26,8 +26,3 @@ Este proyecto es un clon de Spotify construido con Next.js 14+ (App Router), Tai
     ```sh
     pnpm dev
     ```
-
-## Notas
-
-- Personaliza los componentes y estilos según tus necesidades.
-- Reemplaza los assets y configuraciones de ejemplo por los de tu proyecto final.

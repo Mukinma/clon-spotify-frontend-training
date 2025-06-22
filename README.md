@@ -9,6 +9,7 @@ Este proyecto es un clon de Spotify construido con Next.js 14+ (App Router), Tai
 - `pnpm start` — Inicia la aplicación en modo producción
 
 ## Stack
+
 - Next.js 14+ (App Router)
 - Tailwind CSS
 - shadcn/ui
@@ -27,5 +28,6 @@ Este proyecto es un clon de Spotify construido con Next.js 14+ (App Router), Tai
    ```
 
 ## Notas
+
 - Personaliza los componentes y estilos según tus necesidades.
 - Reemplaza los assets y configuraciones de ejemplo por los de tu proyecto final.

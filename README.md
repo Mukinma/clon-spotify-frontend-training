@@ -19,13 +19,13 @@ Este proyecto es un clon de Spotify construido con Next.js 14+ (App Router), Tai
 
 1. Clona el repositorio
 2. Instala las dependencias:
-   ```sh
-   pnpm install
-   ```
+    ```sh
+    pnpm install
+    ```
 3. Inicia el servidor de desarrollo:
-   ```sh
-   pnpm dev
-   ```
+    ```sh
+    pnpm dev
+    ```
 
 ## Notas
 

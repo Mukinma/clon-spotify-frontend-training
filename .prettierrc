@@ -2,6 +2,8 @@
   "semi": true,
   "singleQuote": false,
   "printWidth": 100,
-  "tabWidth": 2,
-  "plugins": ["prettier-plugin-tailwindcss"]
+  "tabWidth": 4,
+  "plugins": ["prettier-plugin-tailwindcss"],
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
 }
